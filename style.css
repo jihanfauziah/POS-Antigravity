@@ -1,0 +1,35 @@
+body{
+    background-color: #f4f6f9;
+}
+
+.card{
+    border: none;
+    border-radius: 15px;
+}
+
+.card-header{
+    border-radius: 15px 15px 0 0 !important;
+    font-weight: bold;
+}
+
+.table{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.btn{
+    border-radius: 10px;
+}
+
+.btn:hover{
+    transform: scale(1.02);
+    transition: 0.2s;
+}
+
+h3{
+    font-weight: bold;
+}
+
+.container{
+    margin-bottom: 50px;
+}
